@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Calculator-React/.io/Color-Picker/static/css/main.f155d8a1.css",
+    "main.js": "/Calculator-React/.io/Color-Picker/static/js/main.b21f4e59.js",
+    "static/js/787.eb053afd.chunk.js": "/Calculator-React/.io/Color-Picker/static/js/787.eb053afd.chunk.js",
+    "index.html": "/Calculator-React/.io/Color-Picker/index.html",
+    "main.f155d8a1.css.map": "/Calculator-React/.io/Color-Picker/static/css/main.f155d8a1.css.map",
+    "main.b21f4e59.js.map": "/Calculator-React/.io/Color-Picker/static/js/main.b21f4e59.js.map",
+    "787.eb053afd.chunk.js.map": "/Calculator-React/.io/Color-Picker/static/js/787.eb053afd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f155d8a1.css",
+    "static/js/main.b21f4e59.js"
+  ]
+}
